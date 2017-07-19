@@ -87,14 +87,15 @@
     "style-loader": "^0.13.1",
     "webpack": "^1.13.0",
     "webpack-dev-middleware": "^1.6.1",
-    "webpack-hot-middleware": "^2.10.0"
+    "webpack-hot-middleware": "^2.10.0",
+    "prop-types": "^15.5.10"
   },
   "dependencies": {
     "classnames": "^2.2.3"
   },
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0",
-    "prop-types": "^15.5.10"
+    "prop-types": "^15.0.0"
   },
   "jest": {
     "testPathDirs": [
